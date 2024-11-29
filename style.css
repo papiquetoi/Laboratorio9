@@ -8,14 +8,14 @@
 
 /* Estilos para la barra de navegación */
 nav a {
-    color: black;
+    color: rgb(84, 84, 84);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #3e3e3d;
+    color: #2c2c2c;
 }
 
 /* Estilos para la sección principal */
